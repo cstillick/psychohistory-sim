@@ -1,0 +1,10 @@
+{
+  "name": "$200M/yr transit investment (OK)",
+  "geography": { "state": "OK" },
+  "spending": {
+    "source": "explicit_program",
+    "explicit_program": [
+      { "industry": "Transit and ground passenger transportation", "amount_usd": 200000000 }
+    ]
+  }
+}
